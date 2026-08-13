@@ -141,7 +141,7 @@ requests
 
 ---
 
-## 👤 Auteur
+## 👤 Abdou NDOUR
 
 Projet réalisé dans le cadre du **Certificat Data Analysis**
 
