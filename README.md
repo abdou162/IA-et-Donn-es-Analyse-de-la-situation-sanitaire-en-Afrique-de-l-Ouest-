@@ -147,6 +147,6 @@ Projet réalisé dans le cadre du **Certificat Data Analysis**
 
 ---
 
-## 📄 Master 2 Ingénierie des donees et Intelligence Artificiel 
+## 📄 Licence
 
 Ce projet est open source. Les données utilisées sont sous licence CC BY 4.0 — citation de la source obligatoire.
